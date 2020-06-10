@@ -19,23 +19,39 @@ li {
 /* ADD CSS BELOW */
 
 body {
+
 }
 
 h1,
 h2 {
+  font-family: 'Bangers', cursive;
 }
 
 h1 {
+  text-align: center;
+  font-size: 48px;
 }
 
 h2 {
+  margin-top: 15px;
+  text-align: center;
 }
 
 .row {
+  text-align: center;
 }
 
 .col {
+  background-color: lightgray;
+  border-style: dashed;
+  border: 2px dashed gray;
+  max-width: fit-content;
+  display: inline-block;
+  margin: 40px;
+  
 }
 
 .image {
+  max-height: 150px;
+  margin: 15px;
 }

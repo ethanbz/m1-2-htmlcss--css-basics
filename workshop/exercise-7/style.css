@@ -17,3 +17,71 @@ li {
 }
 
 /* ADD CSS BELOW */
+
+*,h1 {
+  font-family: 'Bangers', 'cursive';
+}
+
+
+
+h1 {
+  text-align: center;
+  font-size: 35px;
+  margin: 15px
+}
+
+h2 {
+  font-size: 25px;
+  text-align: center;
+  white-space: nowrap;
+  padding: 10px;
+}
+.one {
+  margin-right: 695px;
+}
+
+.two {
+  margin-right: 705px;
+}
+
+.three {
+  margin-right: 745px;
+}
+
+.image {
+  height: 100px;
+  border-radius: 3px;
+}
+
+.col {
+  background-color: lightgray;
+  border: 2px dashed gray;
+  max-width: fit-content;
+  padding: 15px;
+  margin: 5px;
+  display: inline-block;
+  
+}
+
+
+.row {
+  text-align: center;
+  white-space: nowrap;
+}
+
+.row2 {
+  text-align: center;
+  white-space: nowrap;
+  margin-right: 300px;
+}
+
+.row3 {
+  text-align: center;
+  white-space: nowrap;
+  margin-right: 235px;
+}
+
+
+
+
+

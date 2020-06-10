@@ -3,5 +3,20 @@ body {
 }
 
 button {
-  /* Solve me */
+  color: white;
+  background-color: blue;
+  padding: 22px 35px;
+  border-radius: 10px;
+  border-style: none;
+  outline: none;
+  transition: transform 0.2s ease 
+}
+
+button:focus {
+  background-color: darkblue;
+
+}
+
+button:active {
+  transform: scale(0.7, 0.7);
 }
